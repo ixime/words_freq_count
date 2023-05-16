@@ -20,3 +20,5 @@ pip install -r requirements.txt
 ```
 ./script.py <txt file>
 ```
+
+Note: Don't forget to give execution permission to the script
