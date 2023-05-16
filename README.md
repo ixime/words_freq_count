@@ -18,5 +18,5 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-python3 script.py <txt file>
+./script.py <txt file>
 ```
